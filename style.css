@@ -1,0 +1,16 @@
+body{
+    background-color: #66ccff;
+}
+
+img {
+    float:left;
+    width:100%;
+}
+
+.img-container {
+    width:500px;
+}
+
+.img-container-large {
+    width:800px;
+}
